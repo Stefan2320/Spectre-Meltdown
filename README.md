@@ -1,6 +1,6 @@
 ## Spectre & Meltdown
 
-This repository serves as a showcase of my master's project, which delves into the implementation of Meltdown and Spectre exploits within an Ubuntu 16.04 environment. It includes implementations for Meltdown, Spectre V1, Spectre V2, and Flush and Reload, all provided as proof-of-concepts (PoCs).
+This repository serves as a showcase of my master's project for **Operating Systems: Design and Security** course, which delves into the implementation of Meltdown and Spectre exploits within an Ubuntu 16.04 environment. It includes implementations for Meltdown, Spectre V1, Spectre V2, and Flush and Reload, all provided as proof-of-concepts (PoCs).
 
 Throughout this project, I acquired knowledge on:
 * Out-of-order Execution
